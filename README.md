@@ -31,8 +31,11 @@ The config.json file should look like
 	"webhook": "https://discord.com/api/webhooks/xxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxx",
 	"webhook_ping": "<@1234567890>",
 	"notifications_enabled": true,
-	"tesseract_path": "C:\\Users\\USER\\AppData\\Local\\Tesseract-OCR\\tesseract",
-	"Serpapi_Api_Key": ""
+	"auth": "",
+	"cloudflare_cookie": "",
+	"tesseract_path": "C:\\Users\\ekila\\AppData\\Local\\Tesseract-OCR\\tesseract",
+	"NopeCha_Api_Key": "",
+	"key": ""
 }
 ```
 

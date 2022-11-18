@@ -250,8 +250,6 @@ class main:
 												  "start": start
 											}, headers=headers
 										)
-				
-				# timeleft = 30 - ((round(time.time())-self.start)/60)
 
 				if request.status_code == 403:
 					uiprint("Invalid key! To buy a valid key create a ticket on the discord. https://discord.gg/blox", "error")

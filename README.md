@@ -11,14 +11,12 @@ It should look like this inside the program:
 ```
 "tesseract_path": "C:\\Users\\ekila\\AppData\\Local\\Tesseract-OCR\\tesseract"
 ```
+![image](https://user-images.githubusercontent.com/78031685/200985867-ee37bf56-c8d3-4160-885d-5cbf90446738.png) <br>
 
 Then get your cloudflare cookie by going to [rblxwild](https:\\rblxwild.com) in firefox, open the devoloper tab by pressing f12
 
 Then on any of the requests that have rblxwild.com as the host name scroll down the headers, and copy the cookie headers<br>
 ![image](https://user-images.githubusercontent.com/78031685/202599504-4d59b35c-8d1e-4a3d-872e-c8b717d0494d.png) <br>
-
-
-![image](https://user-images.githubusercontent.com/78031685/200985867-ee37bf56-c8d3-4160-885d-5cbf90446738.png) <br>
 
 You also need to get a key from [NoCaptcha](https://nopecha.com), to get a api key for the reverse image search part.
 

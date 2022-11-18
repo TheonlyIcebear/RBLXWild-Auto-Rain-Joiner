@@ -7,6 +7,11 @@ The program uses a library called [tesseract](https://pypi.org/project/pytessera
 
 to download it go to [here](https://github.com/UB-Mannheim/tesseract/wiki) and download the 64 bit version, then put the path you downlaoded it into the `tesseract_path` key inside config.json and make sure to add `\\tesseract` to the end and replace all the backslashes with double backslashes
 
+It should look like this inside the program:
+```
+"tesseract_path": "C:\\Users\\ekila\\AppData\\Local\\Tesseract-OCR\\tesseract"
+```
+
 ![image](https://user-images.githubusercontent.com/78031685/200985867-ee37bf56-c8d3-4160-885d-5cbf90446738.png) <br>
 
 You also need to get a key from [NoCaptcha](https://discord.gg/N7Pw37ed), to get a api key for the reverse image search part.

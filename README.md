@@ -1,6 +1,6 @@
-# Bloxflip Auto Rain Joiner 🤖
+# RBLXWild Auto Rain Joiner 🤖
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>
-A simple program that will bypass [bloxflip's](https://bloxflip.com) chat captcha system allowing the program to automatically collect the robux from rains
+A simple program that will bypass [RBLXWild's](https://bloxflip.com) chat captcha system allowing the program to automatically collect the robux from rains
 
 # Setup 🌐
 The program uses a library called [tesseract](https://pypi.org/project/pytesseract/) to detect text in images, the package requires you to actually install the program itself
@@ -14,7 +14,7 @@ It should look like this inside the program:
 
 ![image](https://user-images.githubusercontent.com/78031685/200985867-ee37bf56-c8d3-4160-885d-5cbf90446738.png) <br>
 
-You also need to get a key from [NoCaptcha](https://discord.gg/N7Pw37ed), to get a api key for the reverse image search part.
+You also need to get a key from [NoCaptcha](https://nopecha.com), to get a api key for the reverse image search part.
 
 ![image](https://user-images.githubusercontent.com/78031685/200986272-2227615e-df45-4689-b37d-2731130137c7.png) <br>
 
